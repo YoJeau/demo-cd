@@ -4,7 +4,7 @@
   "main": "main.js",
   "scripts": {
     "test": "jest",
-    "build": "exho 'build en cours...'"
+    "build": "echo 'build en cours...'"
   },
   "keywords": [],
   "author": "",
